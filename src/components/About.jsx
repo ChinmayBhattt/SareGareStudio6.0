@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Twitter, Instagram, Linkedin } from 'lucide-react';
 import chinmayImg from './images/chinmay.jpg';
 import harshImg from './images/harsh.png';
-import bhwaniImg from './images/bhawani.jpeg';
+import bhawaniImg from './images/bhawani.jpeg';
 
 
 const teamMembers = [
@@ -29,7 +29,7 @@ const teamMembers = [
     {
         name: 'Bhawani Singh Rathore',
         role: 'Chairman & Director',
-        image: bhwaniImg,
+        image: bhawaniImg,
         social: {
             instagram: 'https://instagram.com/bhawani5819',
         }
